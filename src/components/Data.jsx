@@ -1,6 +1,6 @@
 import React from "react";
 import { IoArrowForward } from "react-icons/io5";
-import img from "../assets/images/Work Together Image.png";
+import img from "../assets/images/Element.png";
 
 function Data() {
   return (

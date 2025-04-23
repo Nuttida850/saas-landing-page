@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../assets/images/Work Together Image.png";
+import img from "../assets/images/customise.png";
 import { IoArrowForward } from "react-icons/io5";
 
 function Customise() {

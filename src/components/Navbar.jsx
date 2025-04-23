@@ -8,7 +8,7 @@ function Navbar() {
   const [showMenu, setshowMenu] = useState(false);
 
   const ToggleShowMenu = () => {
-    showMenu(!showMenu);
+    setshowMenu(!showMenu);
   };
   return (
     <div className="bg-[#043873]">

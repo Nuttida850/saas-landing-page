@@ -8,7 +8,7 @@ function Sponsors() {
   const sponsors = [sponsor1, sponsor2, sponsor3, sponsor4];
   return (
     <div className="py-20">
-      <div className="container mx-auto max-w-[1320px] text-center">
+      <div className="container mx-auto max-w-[1320px] text-center px-10">
         <h1 className="text-7xl font-bold">Our sponsors</h1>
         <ul className="flex flex-col md:flex-row md:justify-between mt-20 space-y-10 items-center md:space-y-0">
           {sponsors.map((sponsor, index) => (
