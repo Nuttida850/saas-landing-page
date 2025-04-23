@@ -1,12 +1,13 @@
-# React + Vite
+# Saas Landing Page
+This project deveopment using React.js, Vite and Tailwind CSS for learning design website
+# Picture From Website
+<ul>
+  <li>Freepik
+</li>
+  <li>pixabay
+</li>
+</ul>
+<img width="1920" alt="1920px" src="https://github.com/user-attachments/assets/8617c2cb-8031-4f0d-8ca9-fdfd6d4cbb9b" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Credit
+Original design by <a href='https://www.figma.com/@alrazisiam'> Al Razi Siam.</a> Downloaded from <a href='https://www.figma.com/community'>Figma Community.</a>
