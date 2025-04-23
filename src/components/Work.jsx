@@ -1,22 +1,21 @@
 import React from "react";
-import img from '../assets/images/Work Together Image.png'
+import img from "../assets/images/Work Together Image.png";
+import { IoArrowForward } from "react-icons/io5";
 
 function Work() {
   return (
     <div className="py-20">
       <div className="container max-w-[1320px] mx-auto px-10">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-20 items-center">
           <div>
             <img src={img} alt="" />
           </div>
           <div>
-            <h1 className="text-5xl font-bold">
-              Work Together
-            </h1>
-            <p className="text-lg text-white my-10">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque
-              optio veritatis error atque? Libero impedit maxime distinctio
-              beatae voluptas repellendus.
+            <h1 className="text-7xl font-bold">Work Together</h1>
+            <p className="text-lg my-10">
+              With whitepace, share your notes with your colleagues and
+              collaborate on them. You can also publish a note to the internet
+              and share the URL with others.
             </p>
             <a
               href="#"
